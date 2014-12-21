@@ -1,0 +1,27 @@
+{
+  "name": "tessel-fun",
+  "version": "0.0.0",
+  "main": "tessel-fun.js",
+  "description": "",
+  "author": {
+    "name": "Ian Benedict",
+    "email": "ianbenedict@gmail.com",
+    "url": "http://www.ianbenedict.com/"
+  },
+  "hardware": {
+    "*": true,
+    "./": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Duelist/tessel-fun.git"
+  },
+  "licenses": [
+    {
+      "type": "your license here"
+    }
+  ],
+  "dependencies": {
+    "ble-ble113a": "^0.1.12"
+  }
+}
